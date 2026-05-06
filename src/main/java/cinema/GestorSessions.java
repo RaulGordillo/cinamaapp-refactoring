@@ -18,7 +18,7 @@ if (f.getTitol().equals(titolFilm)) { film = f; break; }
 if (film == null) return "Error: film no trobat al catàleg";
 for (Sessio s : sessions) {
 if (s.getSala().getId() == idSala && s.getHora().equals(hora)) {
-return "Error: la sala ja té una sessió a aquesta hora";
+return "Error: la sala ja té una sessió a aquesta hora";S
 }
 }
 if (aforament < 10) return "Error: aforament mínim 10 espectadors";
