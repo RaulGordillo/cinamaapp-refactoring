@@ -1,1 +1,1 @@
-Arquitectura en 3 capes: Presentació, Negoci, Dades
+Arquitectura en 3 capes: Presentació, Negoci, Dades R
