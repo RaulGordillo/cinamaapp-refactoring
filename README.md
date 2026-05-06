@@ -1,1 +1,1 @@
-Arquitectura MVC: Model, Vista, Controlador Alba Chavez
+Arquitectura MVC: En tres capas modelo (Datos),Vista(Presentacion),Controlador(Negocio)
